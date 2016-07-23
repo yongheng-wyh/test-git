@@ -4,4 +4,5 @@
 *git reset --hard commitid/HEAD  //版本回退 会清除当前 工作区 和暂存区的修改
 *git reflog用来记录你的每一次命令
 *HEAD指向的是提交？
-*master 继续走
+*fetch是更新master
+
