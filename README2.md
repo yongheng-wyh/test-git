@@ -5,4 +5,4 @@
 *git reflog用来记录你的每一次命令
 *HEAD指向的是提交？
 *fetch是更新master
-
+*fixed bug
